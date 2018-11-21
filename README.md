@@ -1,1 +1,1 @@
-# todoList
+Simple Add and delete functional todo list
